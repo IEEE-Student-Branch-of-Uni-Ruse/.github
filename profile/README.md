@@ -10,5 +10,6 @@ If you’re interested in the free software, here is part of our free "stack":
 
 Our internal documentation and other useful information are also publicly available:
 
-- [📰️ Press kit](#)
+- [📰️ Press kit and print materials](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/print-materials)
 - [🎨️ Our styleguide](#) 
+
